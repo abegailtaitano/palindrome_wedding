@@ -1,3 +1,10 @@
+# Palindrome Wedding Application:
+
+Created an App that generates Palindrome wedding dates based on what month the users choose.
+
+
+![](images/palindrome_screenshot.png)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
